@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharpsailor/Node-farm-Backend.git"
+  },
+  "author": "Sharpsailor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharpsailor/Node-farm-Backend/issues"
+  },
+  "homepage": "https://github.com/sharpsailor/Node-farm-Backend#readme",
+  "dependencies": {
+    "slugify": "~1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
